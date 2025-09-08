@@ -12,12 +12,10 @@ Key Features:
 
 ## Installation and SetUp
 1. Clone this repository from GitHub:
-'''bash
-git clone https://github.com/STClark-jpg/beginning-bioinformatics
+clone https://github.com/STClark-jpg/beginning-bioinformatics
 2. Open the main notebook in Google Colab (recommended)
 - Notebook path: beginning-bioinformatics/notebooks/Bioinformatics_Module03.ipynb
 3. If running locally, install dependencies:
-'''bash
 pip install biopython
 ## Usage Instructions
 - Open Bioinformatics_Module03.ipynb in Colab

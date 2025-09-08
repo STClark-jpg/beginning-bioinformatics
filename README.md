@@ -24,7 +24,6 @@ pip install biopython
 ## Contribution Guidelines
 - Create a new branch
 - Commit changes with clear messages
-Guidelines:
 - provide comments in code for clarity
 ## Licensing Information
 This project is distributed under no license.

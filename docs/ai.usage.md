@@ -36,7 +36,7 @@ What I changed before committing: Used substitute function
 How I verified correctness (tests, sample data): Ran with Rosalind sample data to verify 
 # Rosalind Problem 8
 Tool/model & version: Gemini
-What I asked for: Feedback on translation structure
+What I asked for: Feedback on translation structure, used to see full codon table (Biopython was not working at this time)
 What I changed before committing: Cleaned up BioPython logic
 How I verified correctness (tests, sample data): Compared sequence with expected dataset
 # Rosalind Problem 9
